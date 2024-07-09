@@ -16,7 +16,7 @@ As a quantitative researcher, the objective of this project is to explore and de
 
 ## Introduction
 
-In the fast-paced world of finance, data-driven investment strategies are crucial for making informed and profitable decisions. This project aims to investigate and develop robust investment strategies using historical and real-time financial data. By leveraging the extensive datasets provided by OpenBB, we can analyze market trends, identify investment opportunities, and optimize our portfolio management.
+In the fast-paced world of finance, data-driven investment strategies are crucial for making informed and profitable decisions. This project aims to investigate and develop robust investment strategies using historical and real-time financial data. By leveraging the extensive datasets provided by Alpha Vantage, we can analyze market trends, identify investment opportunities, and optimize our portfolio management.
 
 ## Objectives
 
@@ -45,7 +45,7 @@ This project uses data from Alpha Vantage. Alpha Vantage provides access to vari
 ## Methodology
 The methodology for developing the investment strategies involves the following steps:
 
-1. **Data Collection**: Fetch historical and real-time data from OpenBB for different asset classes.
+1. **Data Collection**: Fetch historical and real-time data from Alpha Vantage for different asset classes.
 2. **Data Cleaning and Preprocessing**: Prepare the data for analysis by handling missing values, normalizing, and transforming features.
 3. **Exploratory Data Analysis (EDA)**: Analyze the data to uncover patterns, trends, and correlations.
 4. **Strategy Development**: Develop investment strategies based on insights from the EDA. This may include technical indicators, machine learning models, and algorithmic trading techniques.
