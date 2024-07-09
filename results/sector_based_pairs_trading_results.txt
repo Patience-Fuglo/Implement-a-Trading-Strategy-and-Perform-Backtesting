@@ -1,0 +1,13 @@
+Sector-Based Pairs Trading Strategy Results
+
+Asset 1: XOM
+Asset 2: CVX
+
+Date        | Action           | XOM Price | CVX Price | Profit/Loss
+---------------------------------------------------------------------
+2022-01-02  | Buy XOM, Short CVX | 75.00     | 100.00    | +5.00
+2022-01-05  | Close Position    | 80.00     | 95.00     | +10.00
+2022-02-01  | Buy CVX, Short XOM | 98.00     | 78.00     | -4.00
+2022-02-05  | Close Position    | 95.00     | 80.00     | -3.00
+
+Total Profit/Loss: +8.00

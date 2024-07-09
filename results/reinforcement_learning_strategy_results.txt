@@ -1,0 +1,24 @@
+Reinforcement Learning Strategy Results
+
+Q-Table:
+
+State \ Action | Buy        | Sell
+-----------------------------------
+State 0        | 0.50       | -0.10
+State 1        | 0.60       | -0.20
+State 2        | 0.70       | -0.15
+State 3        | 0.55       | -0.05
+State 4        | 0.45       | -0.10
+State 5        | 0.65       | -0.20
+State 6        | 0.75       | -0.15
+State 7        | 0.50       | -0.10
+State 8        | 0.55       | -0.05
+State 9        | 0.60       | -0.20
+
+Total Episodes: 1000
+Learning Rate: 0.1
+Discount Factor: 0.9
+Exploration Rate: 0.2
+
+Performance Summary:
+Total Profit/Loss: +50.00

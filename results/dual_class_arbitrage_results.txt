@@ -1,0 +1,13 @@
+Dual Class Arbitrage Strategy Results
+
+Stock 1: GOOG
+Stock 2: GOOGL
+
+Date        | Action     | GOOG Price | GOOGL Price | Profit/Loss
+---------------------------------------------------------------
+2022-01-02  | Buy GOOG   | 2900.50    | 2895.00     | +5.50
+2022-01-05  | Sell GOOG  | 2925.00    | 2920.00     | +4.50
+2022-02-01  | Buy GOOGL  | 2850.00    | 2855.50     | -5.50
+2022-02-05  | Sell GOOGL | 2870.00    | 2875.00     | -5.00
+
+Total Profit/Loss: -0.50
