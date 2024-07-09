@@ -1,0 +1,6 @@
+#ifndef SECTOR_BASED_PAIRS_TRADING_H
+#define SECTOR_BASED_PAIRS_TRADING_H
+
+void runSectorBasedPairsTrading();
+
+#endif // SECTOR_BASED_PAIRS_TRADING_H
